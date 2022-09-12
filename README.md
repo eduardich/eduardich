@@ -1,7 +1,7 @@
 <h1>👋 Wellcome!</h1>
-<p>I will filling this public repositories up with projects that i've done during learning</p>
-<h2>✌️ About me</h2>
-<p>I'm 31. I've try codding Java year ago and likes it.</p>
+
+<p>I will fill up repositories during progress of projects in which I participate/get involve in</p>
+
 
 <!--
 **eduardich/eduardich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
